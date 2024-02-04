@@ -13,3 +13,19 @@ JavaScript, CSS, Webpack, Fetch
 yarn build - собирает проект
 Дальше смотреть в index.html
 ```
+
+### Скриншоты
+Модальные окна открываются при клике на соответствующие кнопки:  
+![main-page](screenshots/main-page.png)
+  
+Модалка с рандомными завтраками:  
+![breakfast-modal](screenshots/breakfast-modal.png)
+  
+Рецепт выбранного блюда:  
+![recipe-modal](screenshots/recipe-modal.png)
+  
+Модалка с блюдами по ингредиентам:  
+![ingredient-modal](screenshots/ingredient-modal.png)
+  
+Модалка с блюдами по категориям:  
+![category-modal](screenshots/category-modal.png)
